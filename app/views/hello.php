@@ -46,14 +46,7 @@
 <body>
     <div class="welcome">
 
-        <h1>Adela&Vicky's shoes</h1>
-        <form action="/shoes/login" method='post'>
-            <input type="email" id="user" name="user" placeholder='Enter email'>
-            <br>
-            <input type="text" id='pwd' name='pwd' placeholder='Enter password'>
-            <br>
-            <input type="submit" value='log in'>
-        </form>
+		
         <?php 
         
 /*
